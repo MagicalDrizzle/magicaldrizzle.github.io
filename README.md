@@ -1,3 +1,5 @@
+I won't remember anything ever so I'll let the default readme file below as it is
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MagicalDrizzle/magicaldrizzle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
