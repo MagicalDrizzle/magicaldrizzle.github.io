@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/acanthrope
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://magicaldrizzle.github.io
+  * I am acanthrope (https://keybase.io/acanthrope) on keybase.
+  * I have a public key ASDkUYb_madE79hscDxOm6aMaYHJZSm1hz7Mrbn9M3ffoAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e45186ff99a744efd86c703c4e9ba68c6981c96529b5873eccadb9fd3377dfa00a",
+      "host": "keybase.io",
+      "kid": "0120e45186ff99a744efd86c703c4e9ba68c6981c96529b5873eccadb9fd3377dfa00a",
+      "uid": "a92a7e9dc879e6b86049220294555319",
+      "username": "acanthrope"
+    },
+    "merkle_root": {
+      "ctime": 1639992464,
+      "hash": "6398846127350344922d992bfd42f1e84d339cb6f302721e984b5a71b175843e84547e2f73042da09161444b2a2530bf700924469697d9c089a11c7f880a399e",
+      "hash_meta": "9ac17b94bb67103dbd03fd41d610786f0d0ab694904ac8eb0e8d4620bd7b27b3",
+      "seqno": 21469819
+    },
+    "service": {
+      "entropy": "mxd48j7dNPoG+IGRa/f4/Uvr",
+      "hostname": "magicaldrizzle.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1639992489,
+  "expire_in": 504576000,
+  "prev": "c355c974928dcadaf5fa2ddbc60cde138aa8db50d9fc648556716bda0875c0c5",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5FGG/5mnRO/YbHA8TpumjGmByWUptYc+zK25/TN336AKp3BheWxvYWTESpcCGMQgw1XJdJKNytr1+i3bxgzeE4qo21DZ/GSFVnFr2gh1wMXEID2i+dXpbTtOeEdpSUPn1qY4kqaRy/QLCODLLGuSlz6XAgHCo3NpZ8RAsWePhO4Th8xIJ14qd2M29xpedqjYAxmWRv3h2cSVCeqiJgI9xqN1MGOwVhJM1YKHIojyFBh81ZClLL8mhJhLCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE6gVJ4foUJaKqoLGurwMuOwTujdrJtZGaw8tKBQlnqCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acanthrope
+
+==================================================================
